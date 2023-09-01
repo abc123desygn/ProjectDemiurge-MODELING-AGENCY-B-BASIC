@@ -1,10 +1,10 @@
-# ProjectDemiurge-MODELING-AGENCY-B
+# ProjectDemiurge-MODELING-AGENCY-B (BASIC)
 
 *️⃣📶🤖 
 
 Open in Google Colab: [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/abc123desygn/ProjectDemiurge-MODELING-AGENCY-B/blob/main/ABC_123_DESYGN_%E2%84%A2_(DEMIURGE)_MODELIING_AGENCY_B.ipynb)
 ----------------------------------------
-## ABC 123 DESYGN ™: MODELING AGENCY B ™
+## ABC 123 DESYGN ™: MODELING AGENCY B ™ (BASIC)
 
 🤖 MAGNETRON ™ TECHNOLOGY ARTIFICIAL INTELLIGENCE (RESEARCH) 🤖
 
